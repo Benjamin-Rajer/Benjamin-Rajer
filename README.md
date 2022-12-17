@@ -1,4 +1,4 @@
-Hi, my name is Benjamin. I am 15 years old and live in Slovenia.
+Hi, my name is Benjamin. I am 16 years old and live in Slovenia.
 My favourite subject in school is math and I code in my free time.
 My favourite thing to do in programming are coding competitions and I am slowly getting better and better at them.
 I'm currently relearning Python and will soon start learning CSS and Javascript.
